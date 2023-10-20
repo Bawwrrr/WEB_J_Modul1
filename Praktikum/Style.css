@@ -1,0 +1,59 @@
+/* Gaya untuk header */
+.nav-custom-bg {
+  background-color: whitesmoke; /* Warna latar belakang header */
+  color: #fff; /* Warna teks di header */
+}
+
+.nav-custom-bg img {
+  width: 75px;
+  height: 30px;
+}
+body {
+  background-size: cover;
+}
+
+/* Background */
+.Container img {
+  position: relative;
+  text-align: center;
+  width: 1600px;
+}
+
+.Container {
+  color: black;
+  font-family: sans-serif;
+  text-align: left;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+}
+.Container h6 {
+  color: black;
+  font-family: sans-serif;
+  text-align: left;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+/* Gaya untuk footer */
+.custom-footer {
+  margin-bottom: 50px;
+  background-color: whitesmoke; /* Warna latar belakang footer */
+  color: #fff; /* Warna teks di footer */
+  padding: 50px; /* Ruang padding di dalam footer */
+}
+
+/* Gaya untuk teks di dalam footer */
+.gray-text {
+  color: darkgrey; /* Warna teks abu-abu */
+}
+
+.black-text {
+  color: #000; /* Warna teks hitam */
+}
+
+/* Gaya untuk logo di dalam footer */
+.logo {
+  max-width: 100px; /* Maksimum lebar logo */
+}
